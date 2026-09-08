@@ -23,7 +23,7 @@ This assignment is to help TSI to plan, analyze, design, and develop a prototype
   <img width="372" height="828" alt="image" src="https://github.com/user-attachments/assets/5c9019fb-f962-4850-b416-c87396e6d07d" />
 
 * Price Comparison <br>
- <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/2c6ea69e-1685-448d-86b4-143e4a1fd85b" />
+  <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/2c6ea69e-1685-448d-86b4-143e4a1fd85b" />
 
 * Booking Detail <br>
   <img width="550" height="700" alt="image" src="https://github.com/user-attachments/assets/a5f79db2-8d27-48b5-9c55-61edee585f84" />
@@ -33,9 +33,9 @@ This assignment is to help TSI to plan, analyze, design, and develop a prototype
 
 
 * Payment Page <br>
-  <img width="1087" height="1078" alt="image" src="https://github.com/user-attachments/assets/89c541a8-7f01-49c2-9b1e-962b6e90458d" />
-  <img width="1093" height="1078" alt="image" src="https://github.com/user-attachments/assets/c7efc880-1032-4791-a95d-895ac2e7e962" />
-  <img width="1090" height="1078" alt="image" src="https://github.com/user-attachments/assets/c572e6b8-c689-4fe9-9724-8bcf7da468ae" />
+  <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/89c541a8-7f01-49c2-9b1e-962b6e90458d" />
+  <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/c7efc880-1032-4791-a95d-895ac2e7e962" />
+  <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/c572e6b8-c689-4fe9-9724-8bcf7da468ae" />
 
 
 

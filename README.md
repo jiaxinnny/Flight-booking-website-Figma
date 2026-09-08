@@ -11,12 +11,6 @@ This assignment is to help TSI to plan, analyze, design, and develop a prototype
   <img width="480" height="292" alt="image" src="https://github.com/user-attachments/assets/e5363c06-660e-4dbc-8b1a-0cfb90656229" />
   <img width="480" height="292" alt="image" src="https://github.com/user-attachments/assets/d78f6d82-6439-4529-ba34-49e7c59c811f" />
 
-* Admin Dashboard <br>
-  <img width="480" height="380" alt="image" src="https://github.com/user-attachments/assets/1d602011-613f-48aa-a75a-86b078f5a252" />
-  <img width="480" height="380" alt="image" src="https://github.com/user-attachments/assets/bc92a03c-a664-4297-8518-931fcd4cefd6" />
-  <img width="550" height="450" alt="image" src="https://github.com/user-attachments/assets/1f9e3e84-7f51-4c67-bc33-badae0c54563" />
-  <img width="350" height="450" alt="image" src="https://github.com/user-attachments/assets/c867504f-33c0-41fb-8359-689e8f81b39b" />
-
 * Flight Booking Home Page <br>
   <img width="490" height="970" alt="image" src="https://github.com/user-attachments/assets/8224416c-5879-4578-b2b9-559632bacb98" />
 
@@ -33,6 +27,12 @@ This assignment is to help TSI to plan, analyze, design, and develop a prototype
   <img width="550" height="500" alt="image" src="https://github.com/user-attachments/assets/89c541a8-7f01-49c2-9b1e-962b6e90458d" />
   <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/536250da-3139-4eba-baf0-df0776c7b044" />
   <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/c572e6b8-c689-4fe9-9724-8bcf7da468ae" />
+
+* Admin Dashboard <br>
+  <img width="480" height="380" alt="image" src="https://github.com/user-attachments/assets/1d602011-613f-48aa-a75a-86b078f5a252" />
+  <img width="480" height="380" alt="image" src="https://github.com/user-attachments/assets/bc92a03c-a664-4297-8518-931fcd4cefd6" />
+  <img width="550" height="450" alt="image" src="https://github.com/user-attachments/assets/1f9e3e84-7f51-4c67-bc33-badae0c54563" />
+  <img width="350" height="450" alt="image" src="https://github.com/user-attachments/assets/c867504f-33c0-41fb-8359-689e8f81b39b" />
 
 
 

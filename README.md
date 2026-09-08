@@ -29,7 +29,7 @@ This assignment is to help TSI to plan, analyze, design, and develop a prototype
   <img width="550" height="700" alt="image" src="https://github.com/user-attachments/assets/a5f79db2-8d27-48b5-9c55-61edee585f84" />
 
 * Seat Selection <br>
-  <img width="550" height="700" alt="image" src="https://github.com/user-attachments/assets/21ef2c93-552d-4f60-938f-343c4dfc2d08" />
+  <img width="550" height="600" alt="image" src="https://github.com/user-attachments/assets/21ef2c93-552d-4f60-938f-343c4dfc2d08" />
 
 * Payment Page <br>
   <img width="550" height="500" alt="image" src="https://github.com/user-attachments/assets/89c541a8-7f01-49c2-9b1e-962b6e90458d" />

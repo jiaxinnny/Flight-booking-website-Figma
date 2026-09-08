@@ -9,9 +9,9 @@ This assignment is to help TSI to plan, analyze, design, and develop a prototype
 
 
 ## 🟢 Figma Prototype
-* Log in / Sign up 
-  <img width="800" height="592" alt="image" src="https://github.com/user-attachments/assets/e5363c06-660e-4dbc-8b1a-0cfb90656229" />
-  <img width="800" height="712" alt="image" src="https://github.com/user-attachments/assets/d78f6d82-6439-4529-ba34-49e7c59c811f" />
+* Log in / Sign up <br>
+  <img width="800" height="492" alt="image" src="https://github.com/user-attachments/assets/e5363c06-660e-4dbc-8b1a-0cfb90656229" />
+  <img width="800" height="612" alt="image" src="https://github.com/user-attachments/assets/d78f6d82-6439-4529-ba34-49e7c59c811f" />
 
 * Admin Dashboard
   <img width="1057" height="700" alt="image" src="https://github.com/user-attachments/assets/1d602011-613f-48aa-a75a-86b078f5a252" />

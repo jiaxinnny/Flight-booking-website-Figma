@@ -5,8 +5,6 @@ Travel Safe International (TSI) is a leading company that selling tickets for mu
 
 This assignment is to help TSI to plan, analyze, design, and develop a prototype for their business which can handle flight reservations, flight cancellations and rescheduling, and company report. 
 
-## 🛠️ Technologies
-
 
 ## 🟢 Figma Prototype
 * Log in / Sign up <br>

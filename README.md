@@ -16,7 +16,7 @@ This assignment is to help TSI to plan, analyze, design, and develop a prototype
 * Admin Dashboard <br>
   <img width="480" height="400" alt="image" src="https://github.com/user-attachments/assets/1d602011-613f-48aa-a75a-86b078f5a252" />
   <img width="480" height="400" alt="image" src="https://github.com/user-attachments/assets/bc92a03c-a664-4297-8518-931fcd4cefd6" />
-  <img width="480" height="388" alt="image" src="https://github.com/user-attachments/assets/1f9e3e84-7f51-4c67-bc33-badae0c54563" />
+  <img width="480" height="450" alt="image" src="https://github.com/user-attachments/assets/1f9e3e84-7f51-4c67-bc33-badae0c54563" />
   <img width="388" height="450" alt="image" src="https://github.com/user-attachments/assets/c867504f-33c0-41fb-8359-689e8f81b39b" />
 
 * Flight Booking Home Page <br>

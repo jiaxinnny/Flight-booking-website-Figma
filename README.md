@@ -14,10 +14,10 @@ This assignment is to help TSI to plan, analyze, design, and develop a prototype
   <img width="480" height="292" alt="image" src="https://github.com/user-attachments/assets/d78f6d82-6439-4529-ba34-49e7c59c811f" />
 
 * Admin Dashboard <br>
-  <img width="480" height="200" alt="image" src="https://github.com/user-attachments/assets/1d602011-613f-48aa-a75a-86b078f5a252" />
+  <img width="480" height="288" alt="image" src="https://github.com/user-attachments/assets/1d602011-613f-48aa-a75a-86b078f5a252" />
   <img width="480" height="288" alt="image" src="https://github.com/user-attachments/assets/bc92a03c-a664-4297-8518-931fcd4cefd6" />
   <img width="480" height="288" alt="image" src="https://github.com/user-attachments/assets/1f9e3e84-7f51-4c67-bc33-badae0c54563" />
-  <img width="480" height="210" alt="image" src="https://github.com/user-attachments/assets/c867504f-33c0-41fb-8359-689e8f81b39b" />
+  <img width="480" height="288" alt="image" src="https://github.com/user-attachments/assets/c867504f-33c0-41fb-8359-689e8f81b39b" />
 
 * Flight Booking Home Page <br>
   <img width="372" height="828" alt="image" src="https://github.com/user-attachments/assets/5c9019fb-f962-4850-b416-c87396e6d07d" />

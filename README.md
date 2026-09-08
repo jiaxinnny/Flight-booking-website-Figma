@@ -10,14 +10,13 @@ This assignment is to help TSI to plan, analyze, design, and develop a prototype
 
 ## 🟢 Figma Prototype
 * Log in / Sign up 
-  <img width="1132" height="592" alt="image" src="https://github.com/user-attachments/assets/e5363c06-660e-4dbc-8b1a-0cfb90656229" />
-  <img width="1132" height="712" alt="image" src="https://github.com/user-attachments/assets/d78f6d82-6439-4529-ba34-49e7c59c811f" />
-  <img width="526" height="710" alt="image" src="https://github.com/user-attachments/assets/c867504f-33c0-41fb-8359-689e8f81b39b" />
-
+  <img width="800" height="592" alt="image" src="https://github.com/user-attachments/assets/e5363c06-660e-4dbc-8b1a-0cfb90656229" />
+  <img width="800" height="712" alt="image" src="https://github.com/user-attachments/assets/d78f6d82-6439-4529-ba34-49e7c59c811f" />
 
 * Admin Dashboard
   <img width="1057" height="700" alt="image" src="https://github.com/user-attachments/assets/1d602011-613f-48aa-a75a-86b078f5a252" />
   <img width="1113" height="688" alt="image" src="https://github.com/user-attachments/assets/bc92a03c-a664-4297-8518-931fcd4cefd6" />
+  <img width="526" height="710" alt="image" src="https://github.com/user-attachments/assets/c867504f-33c0-41fb-8359-689e8f81b39b" />
   <img width="798" height="688" alt="image" src="https://github.com/user-attachments/assets/1f9e3e84-7f51-4c67-bc33-badae0c54563" />
 
 * Flight Booking Home Page

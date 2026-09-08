@@ -8,7 +8,7 @@ This assignment is to help TSI to plan, analyze, design, and develop a prototype
 
 ## 🟢 Figma Prototype
 
-https://www.figma.com/design/r58CEBNDkXmy9p10hNnfNk/SAAD-UI?node-id=751-10527&m=dev
+https://www.figma.com/design/r58CEBNDkXmy9p10hNnfNk/SAAD-UI?node-id=939-8208&m=dev&t=gpaGpo4LudPv1VtY-1
 
 * Log in / Sign up <br>
   <img width="480" height="292" alt="image" src="https://github.com/user-attachments/assets/e5363c06-660e-4dbc-8b1a-0cfb90656229" />

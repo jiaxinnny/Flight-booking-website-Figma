@@ -18,10 +18,10 @@ This assignment is to help TSI to plan, analyze, design, and develop a prototype
   <img width="350" height="450" alt="image" src="https://github.com/user-attachments/assets/c867504f-33c0-41fb-8359-689e8f81b39b" />
 
 * Flight Booking Home Page <br>
-  <img width="490" height="900" alt="image" src="https://github.com/user-attachments/assets/8224416c-5879-4578-b2b9-559632bacb98" />
+  <img width="490" height="930" alt="image" src="https://github.com/user-attachments/assets/8224416c-5879-4578-b2b9-559632bacb98" />
 
 * Price Comparison <br>
-  <img width="580" height="580" alt="image" src="https://github.com/user-attachments/assets/2c6ea69e-1685-448d-86b4-143e4a1fd85b" />
+  <img width="580" height="600" alt="image" src="https://github.com/user-attachments/assets/2c6ea69e-1685-448d-86b4-143e4a1fd85b" />
 
 * Booking Detail <br>
   <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/4c0a1669-c104-4ddb-a801-9795b76ed378" />

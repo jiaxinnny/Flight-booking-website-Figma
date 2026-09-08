@@ -23,10 +23,10 @@ This assignment is to help TSI to plan, analyze, design, and develop a prototype
   <img width="372" height="828" alt="image" src="https://github.com/user-attachments/assets/5c9019fb-f962-4850-b416-c87396e6d07d" />
 
 * Price Comparison <br>
-  <img width="921" height="710" alt="image" src="https://github.com/user-attachments/assets/8bcb5220-e171-48a3-ab32-43a569967bf0" />
+  <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/8bcb5220-e171-48a3-ab32-43a569967bf0" />
 
 * Booking Detail <br>
-  <img width="733" height="850" alt="image" src="https://github.com/user-attachments/assets/a5f79db2-8d27-48b5-9c55-61edee585f84" />
+  <img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/a5f79db2-8d27-48b5-9c55-61edee585f84" />
 
 * Seat Selection <br>
   <img width="911" height="1078" alt="image" src="https://github.com/user-attachments/assets/21ef2c93-552d-4f60-938f-343c4dfc2d08" />

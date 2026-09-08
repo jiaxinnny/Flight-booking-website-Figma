@@ -24,7 +24,7 @@ This assignment is to help TSI to plan, analyze, design, and develop a prototype
   <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/2c6ea69e-1685-448d-86b4-143e4a1fd85b" />
 
 * Booking Detail <br>
-  <img width="550" height="700" alt="image" src="https://github.com/user-attachments/assets/a5f79db2-8d27-48b5-9c55-61edee585f84" />
+  <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/4c0a1669-c104-4ddb-a801-9795b76ed378" />
 
 * Seat Selection <br>
   <img width="550" height="600" alt="image" src="https://github.com/user-attachments/assets/21ef2c93-552d-4f60-938f-343c4dfc2d08" />

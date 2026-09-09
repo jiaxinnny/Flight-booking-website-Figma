@@ -1,10 +1,9 @@
 # Flight booking website (Figma Prototype)
 
 ## 📖 Overview
-Travel Safe International (TSI) is a leading company that selling tickets for multiple airlines which included different cabin classes, journey type, meal service, and passenger age categories. Passengers can book, cancel, and reschedule their flight tickets. Besides, stuffs need to prepare weekly and monthly sales reports for management purpose. 
+Travel Safe International (TSI) is a leading travel company that sells tickets for multiple airlines. The company offers different cabin classes, journey types, meal services, and passenger age categories. Passengers can use these services to book, cancel, and reschedule flight tickets. Besides, TSI stuff are required to prepare weekly and monthly sales reports for management purpose. 
 
-This assignment is to help TSI to plan, analyze, design, and develop a prototype for their business which can handle flight reservations, flight cancellations and rescheduling, and company report. 
-
+This assignment aims to help TSI plan, analyze, design, and develop a prototype flight reservation system that can support their business. The proposed system will handle key functions such as flight reservations, ticket reservations, ticket cancellations, and sales reporting.
 
 ## 🟢 Figma Prototype
 

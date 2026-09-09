@@ -3,7 +3,7 @@
 ## 📖 Overview
 Travel Safe International (TSI) is a leading travel company that sells tickets for multiple airlines. The company offers different cabin classes, journey types, meal services, and passenger age categories. Passengers can use these services to book, cancel, and reschedule flight tickets. Besides, TSI stuff are required to prepare weekly and monthly sales reports for management purpose. 
 
-This assignment aims to help TSI plan, analyze, design, and develop a prototype flight reservation system that can support their business. The proposed system will handle key functions such as flight reservations, ticket reservations, ticket cancellations, and sales reporting.
+This assignment aims to help TSI plan, analyze, design, and develop a prototype flight reservation system that can support their business. The proposed system will handle key functions such as flight reservations, ticket cancellations, ticket rescheduling, and sales reporting.
 
 ## 🟢 Figma Prototype
 

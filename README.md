@@ -17,7 +17,7 @@ https://www.figma.com/design/r58CEBNDkXmy9p10hNnfNk/SAAD-UI?node-id=939-8208&m=d
   <img width="490" height="970" alt="image" src="https://github.com/user-attachments/assets/8224416c-5879-4578-b2b9-559632bacb98" />
 
 * Price Comparison <br>
-  <img width="580" height="600" alt="image" src="https://github.com/user-attachments/assets/2c6ea69e-1685-448d-86b4-143e4a1fd85b" />
+  <img width="580" height="590" alt="image" src="https://github.com/user-attachments/assets/2c6ea69e-1685-448d-86b4-143e4a1fd85b" />
 
 * Booking Detail <br>
   <img width="580" height="650" alt="image" src="https://github.com/user-attachments/assets/4c0a1669-c104-4ddb-a801-9795b76ed378" />
@@ -33,8 +33,8 @@ https://www.figma.com/design/r58CEBNDkXmy9p10hNnfNk/SAAD-UI?node-id=939-8208&m=d
   <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/c572e6b8-c689-4fe9-9724-8bcf7da468ae" />
 
 * Admin Dashboard <br>
-  <img width="480" height="380" alt="image" src="https://github.com/user-attachments/assets/1d602011-613f-48aa-a75a-86b078f5a252" />
-  <img width="480" height="380" alt="image" src="https://github.com/user-attachments/assets/bc92a03c-a664-4297-8518-931fcd4cefd6" />
+  <img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/1d602011-613f-48aa-a75a-86b078f5a252" />
+  <img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/bc92a03c-a664-4297-8518-931fcd4cefd6" />
   <img width="550" height="450" alt="image" src="https://github.com/user-attachments/assets/1f9e3e84-7f51-4c67-bc33-badae0c54563" />
   <img width="350" height="450" alt="image" src="https://github.com/user-attachments/assets/c867504f-33c0-41fb-8359-689e8f81b39b" />
 
